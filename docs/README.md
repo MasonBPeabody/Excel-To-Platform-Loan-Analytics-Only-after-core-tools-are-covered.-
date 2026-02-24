@@ -58,3 +58,25 @@ Normalized schema and integrity validation queries.
 python/
 Example validation and reconciliation utilities.
 
+**Screenshots (Validation & Controls)**
+
+The following examples illustrate how platform-style data validation and reconciliation checks would execute against the simulated datasets.
+
+**Data Quality Checks**
+Example validations include:
+
+Primary key uniqueness
+Referential integrity (orphan detection)
+Structural consistency
+
+**Reconciliation Checks**
+Example validations include:
+
+Aggregate financial tie-outs
+Cashflow total verification
+
+**Note**
+Screenshots will reflect execution of Python validation scripts (dq_checks.py, reconcile.py) against the repository’s simulated input datasets.
+
+
+
