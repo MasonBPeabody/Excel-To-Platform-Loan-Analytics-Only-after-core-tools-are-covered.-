@@ -1,0 +1,5 @@
+erDiagram
+dim_borrower ||--o{ dim_facility : borrower_id
+dim_facility ||--o{ dim_loan : facility_id
+dim_loan ||--o{ fact_cashflow : loan_id
+dim_loan ||--o{ fact_position : loan_id
