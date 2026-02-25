@@ -1,4 +1,0 @@
-cashflow_id,loan_id,cashflow_date,interest_amount,principal_amount,fee_amount
-C001,L001,2026-01-31,125000,0,0
-C002,L002,2026-01-31,210000,0,5000
-C003,L003,2026-01-31,98000,0,0
