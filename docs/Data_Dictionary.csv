@@ -1,1 +1,5 @@
-
+field_name,definition,data_type,grain,source,rule
+borrower_id,Unique identifier for borrower,TEXT,borrower,borrowers.csv,Must be unique and non-null
+borrower_name,Borrower legal name,TEXT,borrower,borrowers.csv,Non-null
+facility_id,Unique identifier for facility,TEXT,facility,facilities.csv,Must be unique
+loan_id,Unique identifier for loan,TEXT,loan,loans.csv,Must be unique
