@@ -1,0 +1,4 @@
+loan_id,facility_id,tranche,lien,status,spread_bps,base_rate_index
+L001,F001,Term Loan,First Lien,Active,450,SOFR
+L002,F002,Delayed Draw,First Lien,Active,525,SOFR
+L003,F003,Unitranche,Senior Secured,Active,600,SOFR
